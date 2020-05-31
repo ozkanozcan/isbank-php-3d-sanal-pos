@@ -1,0 +1,1 @@
+CURL library must be installed for PHP samples to work.
